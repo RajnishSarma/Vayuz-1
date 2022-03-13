@@ -1,0 +1,46 @@
+.body{
+    font-family: Arial, sans-serif;
+
+}
+
+.row .Banner{
+    padding: 5rem;
+}
+
+.title-image{
+    width: 90%;
+    height: 85%;
+    margin-left: 5px;
+    
+    
+ }
+ /* About section */
+
+ #About{
+     background-color: rgb(101, 101, 245);
+     color: white;
+     text-align: center;
+     padding: 7% 15%;
+
+  }
+
+  /* Package section */
+
+#Package{
+    background-color: rgb(236, 243, 247);
+    text-align: center;
+}
+
+.Package{
+    margin: 3% 5% 2%;
+    padding: 1rem; 
+}
+
+ /* Footer section  */
+
+#Footer{
+    text-align: center;
+    background-color: rgb(51, 4, 95);
+    color: #fff;
+}
+
